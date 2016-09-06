@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace SPP_Lab_1
 {
+    //compare methode
     public class myReverserClass : IComparer
     {
 
